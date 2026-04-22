@@ -49,3 +49,9 @@
 *.VC.opendb
 *.VC.db-shm
 *.VC.db-wal
+
+Debug/
+Release/
+*.tlog
+*.lastbuildstate
+*.recipe
